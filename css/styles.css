@@ -1,0 +1,16 @@
+.section1 {
+    height: 500px;
+    background-color: blue;
+}
+
+@media (min-width: 800px) {
+    .section1 {
+        background-color: #d01dd0;
+    }
+
+
+@media (min-width: 1000px) {
+        .section1 {
+            background-color: rgb(161, 164, 192);
+    
+        }
